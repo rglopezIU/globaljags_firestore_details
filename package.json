@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@google-cloud/firestore": "^7.3.0",
+    "@google-cloud/storage": "^7.7.0",
+    "exif-async": "^1.0.6",
+    "fs-extra": "^11.2.0",
+    "os": "^0.1.2",
+    "parse-dms": "^0.0.5",
+    "path": "^0.12.7",
+    "sharp": "^0.33.2"
+  }
+}
